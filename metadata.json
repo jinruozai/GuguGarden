@@ -1,0 +1,5 @@
+{
+  "name": "Smart Card Cropper & Layout Tool",
+  "description": "Intelligently detects and crops cards from sprite sheets using Gemini Vision, allowing for grid arrangement and custom layouts.",
+  "requestFramePermissions": []
+}
